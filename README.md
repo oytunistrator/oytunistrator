@@ -47,5 +47,7 @@ In addition, I have developed web-based applications, various software and games
 
 ![GitHub followers](https://img.shields.io/github/followers/oytunistrator?color=black&label=Oytunistrator&logo=github&logoColor=black&style=social)
 
+[![Gitlab Badge](https://img.shields.io/badge/Gitlab-oytunistrator-red?style=for-the-badge&logo=gitlab&logoColor=white)](http://gitlab.com/oytunistrator)
+
 [![Web Badge](https://img.shields.io/badge/Web-oytun.org-black?style=for-the-badge&logo=firefox&logoColor=white)](http://oytun.org)
 [![Web Badge](https://img.shields.io/badge/Email-info%40oytun.org-blue?style=for-the-badge&logo=thunderbird&logoColor=white)](mailto:info@oytun.org)
