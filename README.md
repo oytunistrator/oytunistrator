@@ -45,6 +45,10 @@ In addition, I have developed web-based applications, various software and games
 - Malware Analyst
 ```
 
+Since I moved from [Github](https://github.com/oytunistrator) on the grounds that such platforms are no longer free, all work is on [Gitlab](https://gitlab.com/oytunistrator). 
+
+I leave the necessary links below. You can contact freely. 
+
 ![GitHub followers](https://img.shields.io/github/followers/oytunistrator?color=black&label=Oytunistrator&logo=github&logoColor=black&style=social)
 
 [![Gitlab Badge](https://img.shields.io/badge/Gitlab-oytunistrator-red?style=for-the-badge&logo=gitlab&logoColor=white)](http://gitlab.com/oytunistrator)
