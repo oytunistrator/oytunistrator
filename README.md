@@ -1,6 +1,6 @@
 # Who is Oytunistrator? 
 
-Oytunistrator: a digital sorcerer, weaving spells in the language of code. Their fingertips dance across keyboards, conjuring realms where imagination merges seamlessly with technology. They are the unseen architect behind virtual wonders, shaping dreams into reality with each line of code. Mystery cloaks their identity, but their legacy illuminates the digital landscape, inspiring awe and wonder in all who dare to explore the realms they create.
+A digital wizard who weaves spells in code. His fingertips dance on the keyboard, changing the realms where imagination meets technology seamlessly as he wishes. He is the unseen architect behind the virtual wonders that make dreams come true with every line of code. In this system dump, anyone who dares to explore the worlds knows that the real freedom that lies in this profile is living a way of life beyond developing a language or coding language. If you want to learn this mystery; The links below may help you. Maybe the person you are looking for is not in this profile.
 
 ## What technologies am I working on or interested in? 
 
