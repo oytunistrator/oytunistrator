@@ -1,7 +1,6 @@
 # Who is Oytunistrator? 
 
-I have been actively developing in the web industry for many years. I’m familiar with all Web-based technologies.
-In addition, I have developed web-based applications, various software and games in many areas. I hope the questions I’m going to answer below don’t leave a question mark in your head.
+Oytunistrator: a digital sorcerer, weaving spells in the language of code. Their fingertips dance across keyboards, conjuring realms where imagination merges seamlessly with technology. They are the unseen architect behind virtual wonders, shaping dreams into reality with each line of code. Mystery cloaks their identity, but their legacy illuminates the digital landscape, inspiring awe and wonder in all who dare to explore the realms they create.
 
 ## What technologies am I working on or interested in? 
 
